@@ -1,0 +1,6 @@
+<?php
+
+define("CONTROLADOR_PRINCIPAL"; "PROYECTO");
+define("ACCION_PRINCIPAL"; "INDEX");
+
+?>
